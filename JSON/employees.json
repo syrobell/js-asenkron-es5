@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Adnan Dedeoğlu",
+        "department": "Bilgi İşlem",
+        "salary": 5000
+    },
+    {
+        "name": "Buse İpek Dedeoğlu",
+        "department": "Danışma",
+        "salary": 2825
+    },
+    {
+        "name": "Bülent Dedeoğlu",
+        "department": "Esnaf",
+        "salary": 10000
+    }
+]
